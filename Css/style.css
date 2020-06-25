@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+
+   background-image: url("../Images/bg.jpg");
+   font-family: 'Roboto', sans-serif !important;
+}
+h5 {
+    font-size: 17px !important;
+    font-weight: bold !important;
+
+}
+.cal{
+    height: auto;
+    width: 300px;
+    border:  2px solid grey;
+    margin: 0px auto;
+    margin-top: 60px !important;
+    background-color: white !important;
+}
+input {
+height: 50px !important;
+width: 100% !important;
+color: black !important;
+font-weight: bold;
+text-align: center;
+border:  2px solid grey !important;
+}
+
+.btn{
+    margin: 5px;
+    border-radius: 20% !important;
+    height: auto;
+    width: auto;
+
+}
+.cus{
+    border: 1px solid grey !important;
+}
+.btn .yo{
+    background-color: orange !important;
+}
+.btn .ok{
+    border-radius: 0px !important
+}
